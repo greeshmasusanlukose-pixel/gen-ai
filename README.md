@@ -1,5 +1,7 @@
 # gen-ai
 
+The FastAPI backend is in [`backend/`](backend/README.md). See its README for local setup, API documentation, AI integration contracts, frontend examples, tests and MVP limitations.
+
 ## AI/LLM Service — Kerala Accessibility Assistant
 
 **Hackathon MVP: AI-Powered Independence & Accessibility Assistant for senior citizens and persons with disabilities in Kerala.**  
